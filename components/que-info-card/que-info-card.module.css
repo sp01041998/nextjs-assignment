@@ -1,0 +1,24 @@
+.containerDiv{
+
+    display:flex;
+    justify-content: space-between;
+
+}
+
+
+.queContiner{
+    background-color: rgb(207, 148, 148);
+    color: black;
+    width: 95%;
+   
+}
+
+.ansContainer{
+    background-color: rgb(109, 91, 91);
+    color: white;
+
+}
+
+/* .containerDl{
+    height:500px
+} */

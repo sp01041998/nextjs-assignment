@@ -1,0 +1,23 @@
+.containerDiv{
+    width:60%;
+    margin: auto;
+}
+
+
+
+.componentsContainer{
+    
+
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    height: 20em;
+  
+    background-color: rgb(120, 93, 93);
+   margin-top: 200px;
+
+
+} 
+
